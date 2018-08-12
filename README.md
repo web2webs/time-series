@@ -1,1 +1,1 @@
-# time-series
+# Predict bitcoin prices using LSTM (Keras)
